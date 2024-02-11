@@ -44,7 +44,7 @@ servers:
 
 tags:
   - name: User
-    description: Access to user model.
+    description: Access to product model.
 
 paths:
   /users:
